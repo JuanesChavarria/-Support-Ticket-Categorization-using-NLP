@@ -4,5 +4,7 @@ Entrega del proyecto integrador de primer semestre de la maestria de ciencia de 
 Integrantes:
 
 Santiago Méndez
+
 Esteban Jaramillo
+
 Juan Esteban Chavarria

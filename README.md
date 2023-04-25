@@ -2,7 +2,9 @@
 
 # Members:
 Juan Esteban Chavarria
+
 Esteban Jaramillo
+
 Santiago Méndez
 
 # Summary
